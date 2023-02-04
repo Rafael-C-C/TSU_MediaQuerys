@@ -1,6 +1,6 @@
-# mediaqueryss
+# Diferentes pantallas requieren diferentes widgets
 
-Una aplicación para ayudarles.
+Una aplicación para comprender el uso de los media querys.
 
 ## Contexto
 

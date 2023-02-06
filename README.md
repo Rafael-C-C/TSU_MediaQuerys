@@ -1,16 +1,16 @@
-# mediaqueryss
+# Diferentes pantallas requieren diferentes widgets
 
-A new Flutter project.
+Una aplicación para comprender el uso de los media querys.
 
-## Getting Started
+## Contexto
 
-This project is a starting point for a Flutter application.
+Este proyecto fue creado por y para ustedes.
+Espero les sea de ayuda en la construcción de sus aplicaciones:)
 
-A few resources to get you started if this is your first Flutter project:
+A continuación les dejo unas ligas que podrían ser de ayuda:
+- [Documentación de los media queryes de flutter](https://api.flutter.dev/flutter/widgets/MediaQuery-class.html)
+- [Escribe tu primera app con Flutter](https://docs.flutter.dev/get-started/codelab)
+- [Libro de recetas de flutter](https://docs.flutter.dev/cookbook)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Descargar Git](https://git-scm.com/downloads)
+- [Descarga widgets para la construcción de tus apps](https://pub.dev/)
